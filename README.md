@@ -1,10 +1,10 @@
-# Maria Calera Jorge 👋
+# Maria Calera Jorge 
 
 ### 👩‍💻 Desarrolladora Web Junior | Especialista en Imagen Personal 
 
-Perfil híbrido que fusiona la **precisión técnica del desarrollo de software** con una sólida trayectoria en el sector de la **Imagen Personal**[cite: 14, 27]. [cite_start]Mi experiencia previa me ha dotado de una capacidad analítica y de observación excepcional, permitiéndome abordar el desarrollo de interfaces con un enfoque meticuloso en el detalle, la estética y la experiencia de usuario[cite: 27, 28].
+Perfil híbrido que fusiona la **precisión técnica del desarrollo de software** con una sólida trayectoria en el sector de la **Imagen Personal**. Mi experiencia previa me ha dotado de una capacidad analítica y de observación excepcional, permitiéndome abordar el desarrollo de interfaces con un enfoque meticuloso en el detalle, la estética y la experiencia de usuario.
 
-[cite_start]Aporto habilidades comunicativas efectivas y una alta capacidad de adaptación, competencias clave forjadas en entornos de atención al cliente de alto nivel y aplicadas ahora al trabajo colaborativo en proyectos IT[cite: 27, 28].
+Aporto habilidades comunicativas efectivas y una alta capacidad de adaptación, competencias clave forjadas en entornos de atención al cliente de alto nivel y aplicadas ahora al trabajo colaborativo en proyectos IT.
 
 ---
 
@@ -37,14 +37,14 @@ Perfil híbrido que fusiona la **precisión técnica del desarrollo de software*
 
 ### 📚 Formación Académica
 
-* [cite_start]**Grado Superior en Desarrollo de Aplicaciones Web (DAW)** [cite: 11]
-    * *IES Juan de la Cierva* | [cite_start]2023 — Presente [cite: 10, 12]
-* [cite_start]**Grado Superior en Asesoría de Imagen Personal y Corporativa** [cite: 14, 15]
-    * *IES Santa Engracia* | [cite_start]2017 — 2019 [cite: 13, 16]
-* [cite_start]**Grado Superior en Estética Integral y de Bienestar** [cite: 19, 20]
-    * *IES Ciudad de Jaén* | [cite_start]2015 — 2017 [cite: 19]
-* [cite_start]**Grado Medio en Estética y Belleza** [cite: 17, 18]
-    * *IES Ciudad de Jaén* | [cite_start]2015 — 2017 [cite: 17]
+* **Técnico Superior en Desarrollo de Aplicaciones Web (DAW)**
+    * *IES Juan de la Cierva* | 2023 — Presente
+* **Técnico Superior en Asesoría de Imagen Personal y Corporativa**
+    * *IES Santa Engracia* | 2017 — 2019
+* **Técnico Superior en Estética Integral y de Bienestar**
+    * *IES Ciudad de Jaén* | 2015 — 2017
+* **Técnico en Estética y Belleza**
+    * *IES Ciudad de Jaén* | 2015 — 2017
 
 ---
 
@@ -54,21 +54,7 @@ Perfil híbrido que fusiona la **precisión técnica del desarrollo de software*
 ---
 
 ### 📫 Contacto & Redes
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-usuario)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mcalerajorge@gmail.com)
-
-
-### 📚 Educación (Formación Profesional)
-
-* **Técnico Superior en Desarrollo de Aplicaciones Web (DAW)**
-    * *IES. Juan de la Cierva* | 2023 - 2026
-* **Técnico Superior en Asesoría de Imagen Personal y Corporativa**
-    * *IES. Santa Engracia* | 2017 - 2019
-* **Técnico Superior en Estética Integral y de Bienestar**
-    * *IES. Ciudad de Jaén* | 2015 - 2017
-* **Técnico en Estética y Belleza**
-    * *IES. Ciudad de Jaén* | 2015 - 2017
-
-
+[![LinkedIn]
 
 
