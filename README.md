@@ -38,13 +38,13 @@ Aporto habilidades comunicativas efectivas y una alta capacidad de adaptación, 
 ### 📚 Formación Académica
 
 * **Técnico Superior en Desarrollo de Aplicaciones Web (DAW)**
-    * *IES Juan de la Cierva* | 2023 — Presente
+    * *IES Juan de la Cierva* | 2023 — 2026
 * **Técnico Superior en Asesoría de Imagen Personal y Corporativa**
     * *IES Santa Engracia* | 2017 — 2019
-* **Técnico Superior en Estética Integral y de Bienestar**
-    * *IES Ciudad de Jaén* | 2015 — 2017
 * **Técnico en Estética y Belleza**
     * *IES Ciudad de Jaén* | 2015 — 2017
+* * **Técnico Superior en Estética Integral y de Bienestar**
+    * *IES Ciudad de Jaén* | 2013 — 2015
 
 ---
 
