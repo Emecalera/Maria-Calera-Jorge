@@ -43,7 +43,7 @@ Aporto habilidades comunicativas efectivas y una alta capacidad de adaptación, 
     * *IES Santa Engracia* | 2017 — 2019
 * **Técnico en Estética y Belleza**
     * *IES Ciudad de Jaén* | 2015 — 2017
-* * **Técnico Superior en Estética Integral y de Bienestar**
+* **Técnico Superior en Estética Integral y de Bienestar**
     * *IES Ciudad de Jaén* | 2013 — 2015
 
 ---
