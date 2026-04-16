@@ -1,8 +1,8 @@
 # Maria Calera Jorge 👋
 
-### 👩‍💻 Desarrolladora Web Junior | Especialista en Imagen Personal & UX-Driven Dev
+### 👩‍💻 Desarrolladora Web Junior | Especialista en Imagen Personal 
 
-[cite_start]Perfil híbrido que fusiona la **precisión técnica del desarrollo de software** con una sólida trayectoria en el sector de la **Imagen Personal**[cite: 14, 27]. [cite_start]Mi experiencia previa me ha dotado de una capacidad analítica y de observación excepcional, permitiéndome abordar el desarrollo de interfaces con un enfoque meticuloso en el detalle, la estética y la experiencia de usuario[cite: 27, 28].
+Perfil híbrido que fusiona la **precisión técnica del desarrollo de software** con una sólida trayectoria en el sector de la **Imagen Personal**[cite: 14, 27]. [cite_start]Mi experiencia previa me ha dotado de una capacidad analítica y de observación excepcional, permitiéndome abordar el desarrollo de interfaces con un enfoque meticuloso en el detalle, la estética y la experiencia de usuario[cite: 27, 28].
 
 [cite_start]Aporto habilidades comunicativas efectivas y una alta capacidad de adaptación, competencias clave forjadas en entornos de atención al cliente de alto nivel y aplicadas ahora al trabajo colaborativo en proyectos IT[cite: 27, 28].
 
